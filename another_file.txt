@@ -1,1 +1,3 @@
 added another text file in feature 1 branch
+
+Modify this file as a test
