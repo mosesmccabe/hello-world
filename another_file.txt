@@ -1,3 +1,2 @@
-added another text file in feature 1 branch
-
-Modify this file as a test
+This line was added in feature-2 branch
+this second line as also added
